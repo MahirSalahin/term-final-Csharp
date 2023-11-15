@@ -1,0 +1,15 @@
+F:\Docs\Programs\OOP C#\TermFinal\bin\Debug\net7.0\TermFinal.exe
+F:\Docs\Programs\OOP C#\TermFinal\bin\Debug\net7.0\TermFinal.deps.json
+F:\Docs\Programs\OOP C#\TermFinal\bin\Debug\net7.0\TermFinal.runtimeconfig.json
+F:\Docs\Programs\OOP C#\TermFinal\bin\Debug\net7.0\TermFinal.dll
+F:\Docs\Programs\OOP C#\TermFinal\bin\Debug\net7.0\TermFinal.pdb
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.csproj.AssemblyReference.cache
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.AssemblyInfoInputs.cache
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.AssemblyInfo.cs
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.csproj.CoreCompileInputs.cache
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.dll
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\refint\TermFinal.dll
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.pdb
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\TermFinal.genruntimeconfig.cache
+F:\Docs\Programs\OOP C#\TermFinal\obj\Debug\net7.0\ref\TermFinal.dll
